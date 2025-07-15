@@ -59,12 +59,30 @@ Reliable, rapid, and secure identity verification remains a critical challenge f
 
 ---
 
+### 3. Big Data Storage with Hadoop HDFS
+
+To handle large volumes of identity document images and scale the system for enterprise use, the project integrates **Hadoop Distributed File System (HDFS)**:
+
+- **Distributed Storage:** Hadoop stores raw ID card images and live selfie data across a scalable cluster.  
+- **Fault Tolerance:** Ensures data durability with replication and recovery mechanisms.  
+- **Scalability:** Supports growth in data without loss of performance.  
+- **Efficient Data Processing:** Enables batch analytics or further data operations on large datasets.
+
+The Django backend connects seamlessly with Hadoop HDFS to store and retrieve identity documents securely, providing a robust foundation for big data management.
+
+---
+
 ## Technical Highlights
 
 - **YOLOv5:** State-of-the-art object detection for precise localization of ID card fields.  
-- **PaddleOCR:** Deep learning-based optical character recognition supporting Arabic and Latin scripts, optimized for distorted and curved texts typical of ID cards.  
+- **PaddleOCR:** Deep learning-based OCR supporting Arabic and Latin scripts, optimized for distorted and curved texts typical of ID cards.  
 - **OpenCV & dlib:** Real-time facial detection and landmark extraction enabling robust liveness detection through blink analysis.  
 - **CompreFace API:** Open-source facial recognition API providing high-accuracy similarity scoring.  
 - **MongoDB:** NoSQL database for flexible and scalable storage of extracted data and verification logs.  
+- **Hadoop HDFS:** Distributed file system for secure, scalable storage of large volumes of identity documents.  
 
 ---
+
+## Impact
+
+This end-to-end system strengthens security for online banking, government services, and digital identity platforms by preventing fraud and enabling seamless identity verification. The project combines AI-powered object detection, OCR, facial recognition, and big data technologies to deliver a secure, efficient, and user-friendly solution.

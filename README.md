@@ -435,6 +435,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ## 👥 Auteurs
 
 - **Oumaima** - *Développement initial* - [oumaima221](https://github.com/oumaima221)
+- **Yasmine** - *Développement initial* - [yasmine-png](https://github.com/yasmine-png)
 
 ## 🙏 Remerciements
 

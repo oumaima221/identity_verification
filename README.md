@@ -144,7 +144,7 @@ La vérification d'identité fiable, rapide et sécurisée reste un défi critiq
 ### 1. Cloner le Repository
 
 ```bash
-git clone https://github.com/yasmine-png/identity_verification.git
+git clone https://github.com/oumaima221/identity_verification.git
 cd identity_verification
 ```
 
@@ -434,7 +434,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Auteurs
 
-- **Yasmine** - *Développement initial* - [yasmine-png](https://github.com/yasmine-png)
+- **Oumaima** - *Développement initial* - [oumaima221](https://github.com/oumaima221)
 
 ## 🙏 Remerciements
 
@@ -448,7 +448,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📞 Support
 
-Pour toute question ou problème, veuillez ouvrir une [issue](https://github.com/yasmine-png/identity_verification/issues) sur GitHub.
+Pour toute question ou problème, veuillez ouvrir une [issue](https://github.com/oumaima221/identity_verification/issues) sur GitHub.
 
 ---
 

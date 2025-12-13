@@ -233,7 +233,7 @@ git commit -m "feat: Initial commit with professional project structure
 - Organize project structure professionally"
 
 # Ajouter le remote
-git remote add origin https://github.com/yasmine-png/identity_verification.git
+git remote add origin https://github.com/oumaima221/identity_verification.git
 
 # Push vers GitHub
 git branch -M main

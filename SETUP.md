@@ -42,7 +42,7 @@ Ce guide vous aidera à installer et configurer le système de vérification d'i
 ### 1. Cloner le Repository
 
 ```bash
-git clone https://github.com/yasmine-png/identity_verification.git
+git clone https://github.com/oumaima221/identity_verification.git
 cd identity_verification
 ```
 
@@ -334,6 +334,6 @@ Une fois l'installation terminée :
 ## Support
 
 Pour toute question ou problème :
-- Ouvrez une [issue](https://github.com/yasmine-png/identity_verification/issues) sur GitHub
+- Ouvrez une [issue](https://github.com/oumaima221/identity_verification/issues) sur GitHub
 - Consultez la documentation dans le dossier `docs/`
 

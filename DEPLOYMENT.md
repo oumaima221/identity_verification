@@ -45,7 +45,7 @@ git commit -m "Initial commit: Professional project structure"
 ### 4. Ajouter le Remote GitHub
 
 ```bash
-git remote add origin https://github.com/yasmine-png/identity_verification.git
+git remote add origin https://github.com/oumaima221/identity_verification.git
 git branch -M main
 git push -u origin main
 ```
@@ -154,7 +154,7 @@ sudo apt install python3-pip python3-venv nginx supervisor -y
 
 ```bash
 cd /var/www
-sudo git clone https://github.com/yasmine-png/identity_verification.git
+sudo git clone https://github.com/oumaima221/identity_verification.git
 sudo chown -R $USER:$USER identity_verification
 cd identity_verification
 ```
